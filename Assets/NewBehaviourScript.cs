@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
@@ -15,7 +15,7 @@ public class NewBehaviourScript:MonoBehaviour {
         m.DoMessageDele(300);
         m.DoMessageDele(200,1212);
 
-        Debug.Log("");
+        Debug.Log("121212");
         //double a = 350;
         //for(int i=1;i<=30;++i)
         //{
