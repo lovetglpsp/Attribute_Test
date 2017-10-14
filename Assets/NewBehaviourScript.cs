@@ -14,6 +14,8 @@ public class NewBehaviourScript:MonoBehaviour {
         m.DoMessageDele(100);
         m.DoMessageDele(300);
         m.DoMessageDele(200,1212);
+
+        Debug.Log("");
         //double a = 350;
         //for(int i=1;i<=30;++i)
         //{
